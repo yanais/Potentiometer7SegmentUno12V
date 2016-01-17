@@ -9,6 +9,8 @@ You can also like circuito.io on Facebook at: https://www.facebook.com/circuito.
 
 * for any question on the code or layout, please don't hesitate to contact us at hello@circuito.io.
 
+* Once you've worked the schematics & code, please take the time to give us some [feedback](https://circuito.typeform.com/to/pfKypx), so we can keep improving and give you an even awesomer service!
+
 How to read this repository
 ---------------------------
 You are here because you ised circuito.io and asked for a circuit and code sample for your project.
