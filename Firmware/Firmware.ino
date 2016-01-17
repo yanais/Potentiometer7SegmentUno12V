@@ -9,8 +9,8 @@ void setup()
 void loop() 
 {	
 	int sample = potentiometer.read();
-  Serial.println(sample);
+	Serial.println(sample);
 	ssDisplay.write(sample);
-
-  delay(100);
+	
+	delay(100);
 }
